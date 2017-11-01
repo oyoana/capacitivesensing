@@ -8,6 +8,6 @@ open onecapsensor.maxpat with Max
 
 
 
-In folder moreSensors, find a version with three touch sensors
+In folder threeSensors, find a version with three touch sensors
 Upload morecapsenors.ino to an arduino
 open morecapsensors.maxpat with Max
